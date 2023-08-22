@@ -1,0 +1,6 @@
+@media (max-width: 450px){
+    .container-fluid{
+        flex-direction: column-reverse !important;
+        padding-bottom: 1em;
+    }
+}
