@@ -1,6 +1,22 @@
 @media (max-width: 450px){
-    .container-fluid{
+    .navbar {
+        display: inline-flex !important;
+    }
+
+    .navbar span{
+        position: absolute;
+    }
+
+    .mobile{
         flex-direction: column-reverse !important;
         padding-bottom: 1em;
+    }
+
+    .comentario-bg {
+        width: 90% !important;
+    }
+
+    .comentario {
+        text-align: center !important;
     }
 }
