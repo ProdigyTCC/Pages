@@ -27,7 +27,7 @@ span{
 }
 
 .fundo-chumbo{
-    color: var(--cinza-chumbo);
+    background-color: var(--cinza-chumbo);
 }
 
 .reverse {
