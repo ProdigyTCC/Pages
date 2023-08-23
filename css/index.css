@@ -1,0 +1,20 @@
+.comentario-bg {
+    background-color: var(--turquesa);
+    border-radius: 8px 0px 8px 0px;
+    margin: 2em;
+    width: 40% !important;
+}
+
+.comentario {
+    color: var(--verde-agua-claro);
+    font-size: 1.2em;
+    text-align: justify;
+    padding: 1em;
+}
+
+.assinatura {
+    font-style: italic;
+    text-align: end;
+    margin-right: 1em;
+    margin-bottom: 1em;
+}
